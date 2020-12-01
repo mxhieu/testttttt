@@ -1,0 +1,8 @@
+{
+    "CRM": true,
+    "Config": true,
+    "TMS": true,
+    "HRM": true,
+    "EVENT": true,
+    "KPI": true
+}
